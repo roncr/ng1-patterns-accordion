@@ -8,6 +8,8 @@ This is achieved by the child nodes registering them self into the parent, in or
 
 Then one the child has an event that needs to communicate, it uses the same reference to the parent controller to do so. The parent controller has knowledge and access to its children, hence it can pass the message across the children.
 
+This pattern is commonly found in accordions and tabs components.
+
 ## Usage
 
     // index.html
