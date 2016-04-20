@@ -1,0 +1,23 @@
+{
+  "name": "ng1-patterns-accordion",
+  "version": "1.0.0",
+  "description": "AngularJS Patterns - Accordion",
+  "main": "index.js",
+  "scripts": {
+    "serve": "lite-server",
+    "start": "npm run serve"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "angular": "^1.5.3",
+    "angular-animate": "^1.5.5"
+  },
+  "devDependencies": {
+    "lite-server": "^2.2.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/roncr/ng1-patterns-accordion.git"
+  }
+}
